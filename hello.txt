@@ -126,6 +126,7 @@ ________________________________________
 2️⃣ Scroll down to Pipeline section
 Under Definition, select:
 Pipeline script
+Build triggers: Poll SCM
 ________________________________________
 3️⃣ Paste the script
 
